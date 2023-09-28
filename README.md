@@ -1,2 +1,2 @@
 # magic-8-ball-example
-Created with CodeSandbox
+Uygulamanın çıktısı : (https://8f2j2y.csb.app/) adresinden ulaşılabilir
